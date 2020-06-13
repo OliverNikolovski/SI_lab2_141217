@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-13T19:37:06" hostname="DESKTOP-D7FFT9L" time="0.028">
+  <properties/>
+  <testcase name="everyPathTest()" classname="SILab2Test" time="0.026"/>
+  <testcase name="everyBranchTest()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
